@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on PUB.R Competition @ICRA23 website</title>
+    <link>https://francescodelduchetto.github.io/PUBRWebsite/posts/</link>
+    <description>Recent content in Posts on PUB.R Competition @ICRA23 website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Jan 2023 10:40:11 +0000</lastBuildDate>
+    <atom:link href="https://francescodelduchetto.github.io/PUBRWebsite/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Call</title>
+      <link>https://francescodelduchetto.github.io/PUBRWebsite/posts/call/</link>
+      <pubDate>Mon, 16 Jan 2023 10:40:11 +0000</pubDate>
+      <guid>https://francescodelduchetto.github.io/PUBRWebsite/posts/call/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rules</title>
+      <link>https://francescodelduchetto.github.io/PUBRWebsite/posts/rules/</link>
+      <pubDate>Mon, 16 Jan 2023 10:39:53 +0000</pubDate>
+      <guid>https://francescodelduchetto.github.io/PUBRWebsite/posts/rules/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contacts</title>
+      <link>https://francescodelduchetto.github.io/PUBRWebsite/posts/contacts/</link>
+      <pubDate>Mon, 16 Jan 2023 10:39:41 +0000</pubDate>
+      <guid>https://francescodelduchetto.github.io/PUBRWebsite/posts/contacts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Committee</title>
+      <link>https://francescodelduchetto.github.io/PUBRWebsite/posts/committee/</link>
+      <pubDate>Mon, 16 Jan 2023 10:36:27 +0000</pubDate>
+      <guid>https://francescodelduchetto.github.io/PUBRWebsite/posts/committee/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
