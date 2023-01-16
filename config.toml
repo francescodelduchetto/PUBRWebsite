@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://francescodelduchetto.github.io/PUBRWebsite'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'PUB.R Competition @ICRA23 website'
 theme = 'zen'
