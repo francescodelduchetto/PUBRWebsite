@@ -1,5 +1,4 @@
 baseURL: 'https://francescodelduchetto.github.io/PUBRWebsite'
-languageCode: 'en-us'
 title: 'PUB.R Competition @ICRA23'
 theme: 'zen'
 languageCode: "en-GB"
@@ -8,7 +7,6 @@ pluralizelisttitles: false
 removePathAccents: true
 paginate: 10
 paginatePath: "page"
-rssLimit: 20
 author:
   name: "Francesco Del Duchetto"
   url: "https://francescodelduchetto.github.io"
@@ -34,7 +32,7 @@ params:
   image: "pubr23_sketch.png"
   imageMaxWidth: 400
   logoWidth: 164
-  mobileMenu: true
+  mobileMenu: false
   poweredby: true
   realfavicongenerator: true
   sidebar: false

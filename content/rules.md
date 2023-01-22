@@ -8,7 +8,7 @@ draft: false
 ## Competition Information
 
 ### Rule book
-You can find the most up-to-date version of the rulebook to download at the following address:
+You can find the most up-to-date version of the rulebook to download at the following address: [PUBR_competition.pdf](/PUBRWebsite/documents/PUBR_competition.pdf)
 
 ### Competition Floor Plan
 The following is a floor plan of the venue space allocated for our competition, you can use it for having a better idea of the scenario setup you will find during the tasks.
