@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on PUB.R Competition @ICRA23 website</title>
+    <title>Tags on PUB.R Competition @ICRA23</title>
     <link>https://francescodelduchetto.github.io/PUBRWebsite/tags/</link>
-    <description>Recent content in Tags on PUB.R Competition @ICRA23 website</description>
+    <description>Recent content in Tags on PUB.R Competition @ICRA23</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-GB</language>
     <atom:link href="https://francescodelduchetto.github.io/PUBRWebsite/tags/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>

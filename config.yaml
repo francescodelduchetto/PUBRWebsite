@@ -1,0 +1,42 @@
+baseURL: 'https://francescodelduchetto.github.io/PUBRWebsite'
+languageCode: 'en-us'
+title: 'PUB.R Competition @ICRA23'
+theme: 'zen'
+languageCode: "en-GB"
+defaultContentLanguage: "en"
+pluralizelisttitles: false
+removePathAccents: true
+paginate: 10
+paginatePath: "page"
+rssLimit: 20
+author:
+  name: "Francesco Del Duchetto"
+  url: "https://francescodelduchetto.github.io"
+
+outputFormats:
+  SearchIndex:
+    mediaType: "application/json"
+    baseName: "searchindex"
+    isPlainText: true
+    notAlternative: true
+
+# outputs:
+#   home: ["HTML","RSS", "JSON", "SearchIndex"]
+#   section: ["HTML","RSS", "JSON"]
+
+params:
+  contact: "fdelduchetto@lincoln.ac.uk"
+  description: "The PUB.R Competition 2023 Website"
+  dateformat: "2 January, 2006"
+  favicon: "pubr23_sketch.png"
+  feedlinks: true
+  icon: "pubr23_sketch.png"
+  image: "pubr23_sketch.png"
+  imageMaxWidth: 400
+  logoWidth: 164
+  mobileMenu: true
+  poweredby: true
+  realfavicongenerator: true
+  sidebar: false
+  submitted: true
+
